@@ -8,3 +8,6 @@ Steps to setup the counter
 * Change the variable “countdownTo” to the date you are counting down to.
 
 * Include the JavaScript files in the HTML file and write script to initiate the counter.
+
+
+Credits : @varunkuamr
