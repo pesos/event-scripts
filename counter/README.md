@@ -10,4 +10,4 @@ Steps to setup the counter
 * Include the JavaScript files in the HTML file and write script to initiate the counter.
 
 
-Credits : @varunkuamr
+Credits : [varunkuamar](https://github.com/varunkumar)
